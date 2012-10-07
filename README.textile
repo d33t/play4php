@@ -14,7 +14,7 @@ h2. Getting started
 
 h2. Get the source
 
-Fork the project source code on "Github":http://github.com/playframework/play:
+Fork the project source code on "Github":https://github.com/d33t/play4php:
 
 bc. git clone https://github.com/d33t/play4php.git
 

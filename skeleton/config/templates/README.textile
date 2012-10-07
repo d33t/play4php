@@ -1,3 +1,3 @@
 h1. Smarty config files
 
-You can place here your smarty config files. More on this topic "http://www.smarty.net/docs/en/language.config.variables.tpl": http://www.smarty.net/docs/en/language.config.variables.tpl
+You can place here your smarty config files. More on this topic "http://www.smarty.net/docs/en/language.config.variables.tpl":http://www.smarty.net/docs/en/language.config.variables.tpl
