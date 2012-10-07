@@ -1,0 +1,2 @@
+h1. Install all external librariries into this folder
+This folder is used to store all libraries used across the application. The play4php should be copied here under play4php folder as well.

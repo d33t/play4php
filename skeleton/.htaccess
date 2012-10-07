@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_URI} ^/(app|data|config|libs|logs|tmp|public) [OR]  #Do not dispatch requests for app folders
+#RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule .* index.php [L,QSA]

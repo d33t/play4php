@@ -1,0 +1,15 @@
+# General temp files
+.DS_Store
+
+# Files related to play4php build or usage
+skeleton/libs/play4php
+skeleton/tmp/*
+skeleton/logs/*
+
+# IDE and editors
+*~
+.idea
+eclipse
+.settings
+.classpath
+.project

@@ -1,0 +1,23 @@
+h1. Welcome to play4php framework
+
+Play4php framework makes it easier to build Web applications with PHP. It was inspired by play framework for Java. Learn more about it on the "http://www.playframework.org":http://www.playframework.org website.
+
+h2. Getting started
+
+1. Use the provided skeleton provided in the skeleton subfolder
+
+2. Configure your apache server
+
+3. Enable mode_rewrite
+
+4. Open the application url and see the welcome page
+
+h2. Get the source
+
+Fork the project source code on "Github":http://github.com/playframework/play:
+
+bc. git clone https://github.com/d33t/play4php.git
+
+h2. Licence
+
+Play4php framework is distributed under "Apache 2 licence":http://www.apache.org/licenses/LICENSE-2.0.html.
